@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>superfields-demo-v23</artifactId>
-    <version>0.6.66-SNAPSHOT</version>
+    <version>gamma4_2304dev_bubblet</version>
     <name>V23+ demo app for SuperFields</name>
     <description>Showcase application for V23+ and SuperFields.</description>
     <packaging>war</packaging>
