@@ -1,1 +1,0 @@
-An extendable `CustomField<Object>` that displays values in components that match the registered type(s).

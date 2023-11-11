@@ -1,1 +1,0 @@
-Improved version of `SuperDateTimePicker` that uses `SuperDatePicker` - meaning it provides fully localised dates with custom display patterns.

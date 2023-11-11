@@ -1,1 +1,0 @@
-A descendant of `Button` that must be clicked multiple times before it sends click events. 

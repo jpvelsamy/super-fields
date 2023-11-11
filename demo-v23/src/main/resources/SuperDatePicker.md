@@ -1,1 +1,0 @@
-Improved and fully localised version of a `DatePicker` that supports custom date pattern input, server-side text selection and tooltip support.

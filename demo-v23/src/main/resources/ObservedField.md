@@ -1,1 +1,0 @@
-Invisible component that "knows" if it is currently shown on screen (a `boolean` value).  

@@ -1,1 +1,0 @@
-A field that works with any `Map<K, V>` allowing different components for keys and values. Uses a `CollectionField` to produce a `Map` from a list of `Map.Entry`.

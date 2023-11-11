@@ -1,1 +1,0 @@
-Highly customisable field for entering floating-point numbers (type `BigDecimal`), with locale-specific group and decimal separators, scientific notation support, tooltip, server-side text selection, optional integer part and more.
