@@ -8,7 +8,7 @@
     <artifactId>superfields</artifactId>
     <name>SuperFields</name>
     <description>Code for various V14+ fields and other components.</description>
-    <version>gamma42304dev_bubblet</version>
+    <version>jamun_24</version>
 
 
     <properties>
